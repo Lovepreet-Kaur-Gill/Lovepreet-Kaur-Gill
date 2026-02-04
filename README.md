@@ -34,10 +34,13 @@ I bridge the gap between complex research models and functional real-world appli
 
 ---
 
-### 📈 GitHub Stats
-![Lovepreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lovepreet-Kaur-Gill&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovepreet-Kaur-Gill&layout=compact&theme=tokyonight)
+### 📈 GitHub Activities
 
+![Lovepreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lovepreet-Kaur-Gill&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovepreet-Kaur-Gill&layout=compact&theme=tokyonight&hide_langs=html,css)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lovepreet-Kaur-Gill&theme=tokyonight)
 ---
 
 ### 📫 Let's Connect!
