@@ -15,12 +15,13 @@ I bridge the gap between complex research models and functional real-world appli
 
 ### 🚀 Top Featured Projects
 
-#### 🌡️ [TalentSync AI – Smart Resume Builder & Analyzer](https://github.com/Lovepreet-Kaur-Gill/CVision)
-*Built an intelligent, full-stack resume builder that leverages Gemini 2.0 to sync candidate skills with modern ATS standards.*
+#### 📄 [CVision – Full-Stack Resume Builder & ATS Analyzer](https://github.com/Lovepreet-Kaur-Gill/CVision)
+*A high-performance, full-stack platform designed to sync candidate skills with strict Applicant Tracking System (ATS) standards.*
 
-* **Impact:** Achieved a **20% improvement in ATS compatibility** by implementing real-time AI content enhancement and keyword mapping.
-* **Key Features:** Integrated **Clerk** for secure multi-tenant authentication and **Supabase** for persistent cloud storage.
-* **Keywords:** `Next.js 16`, `Gemini 2.0-Flash`, `Supabase`, `Clerk Auth`, `Tailwind CSS`, `Lucide Icons`
+* **Impact:** Improved candidate visibility by engineering an automated keyword alignment algorithm that scores resumes against live job descriptions.
+* **Architecture:** Integrated **Clerk** for secure multi-tenant authentication and **Supabase** (PostgreSQL) for persistent cloud data storage.
+* **Key Features:** Built custom industry-standard templates with pixel-perfect PDF exports and dynamic Next.js routing for public profile sharing.
+* **Tech Stack:** `Next.js 16`, `Supabase`, `Clerk Auth`, `Tailwind CSS`, `Lucide Icons`
 
 #### 👤 [Smart Attendance System](https://github.com/Lovepreet-Kaur-Gill/Smart-Attendance-System)
 *Real-time face recognition system with anti-spoofing liveness detection.*
