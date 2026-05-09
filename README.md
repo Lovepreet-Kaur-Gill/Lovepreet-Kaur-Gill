@@ -51,7 +51,7 @@ I bridge the gap between research and real-world AI — building systems that ar
 
 ---
 
-### 🌾 [AgroTech — Smart Farming Platform](https://github.com/Lovepreet-Kaur-Gill/AgroTech)
+### 🌾 [AgroTech — Smart Farming Platform](https://github.com/AgroTech-Smart-Farming-Solutions/AGROTECH-SMART-FARMING)
 > Serverless, multilingual AI farming assistant for Indian farmers.
 
 - Gemini Flash AI chat with native voice input and real-time Mandi price tracking
@@ -65,7 +65,7 @@ I bridge the gap between research and real-world AI — building systems that ar
 
 ---
 
-### 🏆 [Growtix — AI Student Learning Platform](https://github.com/Lovepreet-Kaur-Gill/Growtix)
+### 🏆 [Growtix — AI Student Learning Platform](https://github.com/Lovepreet-Kaur-Gill/GROWTIX)
 > LLM-powered learning platform — **1st Place at Hackforge 2.0**.
 
 - AI mentor, interview prep modules, and a LeetCode-style coding lab
