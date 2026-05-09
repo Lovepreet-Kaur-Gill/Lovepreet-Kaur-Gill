@@ -2,12 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&animation=fadeIn" width="100%"/>
 
-# Hi, I'm Lovepreet Kaur 👋
+# Lovepreet Kaur
 
-**Applied AI/ML Engineer · B.Tech CSE (Specializing in AI/ML)**
-
-*Bridging complex research models and functional real-world applications.*
-*Building intelligent systems that don't just exist in notebooks — they solve actual problems.*
+**Applied AI/ML Engineer · B.Tech CSE · CGPA 9.1 · Semester Topper**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovepreet05)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lovepreet-kaur.vercel.app)
@@ -18,25 +15,34 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## About
 
-| Domain | Technologies |
-|--------|-------------|
-| **AI / ML** | Hugging Face · LangChain · Transformers · Scikit-learn · OpenCV · Gemini API |
-| **Data Engineering** | Python · SQL · Feature Engineering · Power BI · Neo4j |
-| **Web Tech** | Next.js 16 · React.js · Node.js · Express.js · MongoDB · Supabase |
-| **Tools** | Git · GitHub Actions · Docker · VS Code · Jupyter Notebook |
+I bridge the gap between research and real-world AI — building systems that are production-ready, not just notebook experiments. Currently pursuing B.Tech in CSE (AI & ML) at Geeta University, and formerly a **GenAI Developer Intern** at Skilligence EdTech.
+
+🏆 **1st Place — Hackforge 2.0**, Geeta University &nbsp;·&nbsp; 🎓 **Spring School on ML & Data Analytics, IIT Delhi**
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 📄 [CVision – Full-Stack Resume Builder & ATS Analyzer](https://github.com/Lovepreet-Kaur-Gill/CVision)
-> A high-performance, full-stack platform designed to sync candidate skills with strict ATS standards.
+| | |
+|---|---|
+| **Languages** | Python · C++ · TypeScript · JavaScript · SQL |
+| **AI / ML** | PyTorch · Hugging Face · Gemini API · OpenAI API · Scikit-learn · OpenCV · LangChain |
+| **Frontend** | Next.js · React.js · Tailwind CSS · Framer Motion · Redux |
+| **Backend & DB** | Node.js · Supabase · MongoDB · MySQL · Socket.io · Flask · RESTful APIs |
+| **Tools** | Git · Docker · Postman · Jupyter · GitHub Actions |
 
-- **Impact:** Engineered an automated keyword alignment algorithm that scores resumes against live job descriptions, improving candidate visibility.
-- **Architecture:** Integrated **Clerk** for secure multi-tenant authentication and **Supabase** (PostgreSQL) for persistent cloud data storage.
-- **Key Features:** Custom industry-standard templates with pixel-perfect PDF exports and dynamic Next.js routing for public profile sharing.
+---
+
+## 🚀 Projects
+
+### 📄 [CVision — Resume Builder & ATS Analyzer](https://github.com/Lovepreet-Kaur-Gill/CVision)
+> Full-stack platform for smart JD-Resume mapping and ATS scoring.
+
+- Smart keyword extraction scores resume compatibility against live job descriptions
+- Automated skill-gap analysis links users to relevant learning resources
+- Dynamic routing for secure public profile sharing with PDF exports
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -45,28 +51,31 @@
 
 ---
 
-### 👤 [Smart Attendance System](https://github.com/Lovepreet-Kaur-Gill/Smart-Attendance-System)
-> Real-time face recognition system with anti-spoofing liveness detection.
+### 🌾 [AgroTech — Smart Farming Platform](https://github.com/Lovepreet-Kaur-Gill/AgroTech)
+> Serverless, multilingual AI farming assistant for Indian farmers.
 
-- **Impact:** Automated tracking for 3 roles; mitigated attendance fraud via eye-blink validation.
-- **Highlights:** Anti-spoofing pipeline prevents photo/video-based bypass attacks.
+- Gemini Flash AI chat with native voice input and real-time Mandi price tracking
+- Multimodal crop disease scanner via Supabase Edge Functions
+- Secure financial ledger (Kisan Khata) with automated PDF exports
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
-### 🧠 [Generative AI Suite](https://github.com/Lovepreet-Kaur-Gill/Gen-AI-Projects)
-> A multi-model application for text-to-image generation and intelligent resume analysis.
+### 🏆 [Growtix — AI Student Learning Platform](https://github.com/Lovepreet-Kaur-Gill/Growtix)
+> LLM-powered learning platform — **1st Place at Hackforge 2.0**.
 
-- **Impact:** Streamlined multimodal tasks using Hugging Face and LangChain for faster inference.
-- **Highlights:** Combines NLP pipelines with image generation in a unified interface.
+- AI mentor, interview prep modules, and a LeetCode-style coding lab
+- Real-time collaboration via Socket.io with Monaco Editor integration
+- End-to-end built and shipped during a university hackathon
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -77,17 +86,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Lovepreet-Kaur-Gill&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovepreet-Kaur-Gill&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="165"/>
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovepreet-Kaur-Gill&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 ---
-
-## 📫 Let's Connect
-
-- 💼 **LinkedIn:** [linkedin.com/in/lovepreet-kaur-a13198296](https://linkedin.com/in/lovepreet05)
-- 🌐 **Portfolio:** [talentsync-ai.vercel.app](https://lovepreet-kaur.vercel.app)
-- 📧 **Email:** [preetkaurgill437@gmail.com](mailto:preetkaurgill437@gmail.com)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer&animation=fadeIn" width="100%"/>
