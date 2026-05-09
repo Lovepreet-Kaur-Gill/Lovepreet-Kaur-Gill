@@ -9,8 +9,8 @@
 *Bridging complex research models and functional real-world applications.*
 *Building intelligent systems that don't just exist in notebooks — they solve actual problems.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovepreet-kaur-a13198296)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://talentsync-ai.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovepreet05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lovepreet-kaur.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetkaurgill437@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lovepreet-Kaur-Gill)
 
@@ -85,8 +85,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/lovepreet-kaur-a13198296](https://linkedin.com/in/lovepreet-kaur-a13198296)
-- 🌐 **Portfolio:** [talentsync-ai.vercel.app](https://talentsync-ai.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/lovepreet-kaur-a13198296](https://linkedin.com/in/lovepreet05)
+- 🌐 **Portfolio:** [talentsync-ai.vercel.app](https://lovepreet-kaur.vercel.app)
 - 📧 **Email:** [preetkaurgill437@gmail.com](mailto:preetkaurgill437@gmail.com)
 
 <div align="center">
