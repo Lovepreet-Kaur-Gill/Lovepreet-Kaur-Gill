@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ff6b6b,50:ee4979,100:c0392b&height=120&section=header&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:ee4979,100:c0392b&height=120&section=header&fontColor=fff&animation=fadeIn" width="100%"/>
 
 # Lovepreet Kaur
 
@@ -95,5 +95,5 @@ I bridge the gap between research and real-world AI — building systems that ar
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:c0392b,50:ee4979,100:ff6b6b&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c0392b,50:ee4979,100:ff6b6b&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
