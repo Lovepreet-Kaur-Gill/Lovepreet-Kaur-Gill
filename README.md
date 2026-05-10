@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:f8f9fa,100:e9ecef&height=120&section=header&fontColor=212529&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ff6b6b,50:ee4979,100:c0392b&height=120&section=header&fontColor=fff&animation=fadeIn" width="100%"/>
 
 # Lovepreet Kaur
 
 **Applied AI/ML Engineer · B.Tech CSE · CGPA 9.1 · Semester Topper**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-212529?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovepreet05)
-[![Portfolio](https://img.shields.io/badge/Portfolio-212529?style=for-the-badge&logo=vercel&logoColor=white)](https://lovepreet-kaur.vercel.app)
-[![Email](https://img.shields.io/badge/Email-212529?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetkaurgill437@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-212529?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lovepreet-Kaur-Gill)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ee4979?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovepreet05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://lovepreet-kaur.vercel.app)
+[![Email](https://img.shields.io/badge/Email-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetkaurgill437@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ee4979?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lovepreet-Kaur-Gill)
 
 </div>
 
@@ -44,10 +44,10 @@ I bridge the gap between research and real-world AI — building systems that ar
 - Automated skill-gap analysis links users to relevant learning resources
 - Dynamic routing for secure public profile sharing with PDF exports
 
-![Next.js](https://img.shields.io/badge/Next.js_16-212529?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-212529?style=flat-square&logo=supabase&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk_Auth-212529?style=flat-square&logo=clerk&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-212529?style=flat-square&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-ff6b6b?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-ee4979?style=flat-square&logo=supabase&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk_Auth-c0392b?style=flat-square&logo=clerk&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-ff6b6b?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -58,10 +58,10 @@ I bridge the gap between research and real-world AI — building systems that ar
 - Multimodal crop disease scanner via Supabase Edge Functions
 - Secure financial ledger (Kisan Khata) with automated PDF exports
 
-![React](https://img.shields.io/badge/React.js-212529?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-212529?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-212529?style=flat-square&logo=supabase&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-212529?style=flat-square&logo=google&logoColor=white)
+![React](https://img.shields.io/badge/React.js-ff6b6b?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ee4979?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-c0392b?style=flat-square&logo=supabase&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-ff6b6b?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -72,10 +72,10 @@ I bridge the gap between research and real-world AI — building systems that ar
 - Real-time collaboration via Socket.io with Monaco Editor integration
 - End-to-end built and shipped during a university hackathon
 
-![TypeScript](https://img.shields.io/badge/TypeScript-212529?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-212529?style=flat-square&logo=supabase&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-212529?style=flat-square&logo=socketdotio&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-212529?style=flat-square&logo=google&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ee4979?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-ff6b6b?style=flat-square&logo=supabase&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-c0392b?style=flat-square&logo=socketdotio&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-ee4979?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -83,17 +83,17 @@ I bridge the gap between research and real-world AI — building systems that ar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lovepreet-Kaur-Gill&show_icons=true&theme=default&count_private=true&hide_border=true&title_color=212529&text_color=495057&icon_color=6c757d" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovepreet-Kaur-Gill&layout=compact&theme=default&hide_border=true&hide=html,css&title_color=212529&text_color=495057" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lovepreet-Kaur-Gill&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=ff6b6b&text_color=ffb3b3&icon_color=ee4979&bg_color=1a0a0a" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovepreet-Kaur-Gill&layout=compact&theme=radical&hide_border=true&hide=html,css&title_color=ff6b6b&text_color=ffb3b3&bg_color=1a0a0a" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovepreet-Kaur-Gill&theme=default&hide_border=true&ring=212529&fire=6c757d&currStreakLabel=212529&sideLabels=212529&dates=adb5bd" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovepreet-Kaur-Gill&theme=radical&hide_border=true&ring=ff6b6b&fire=ee4979&currStreakLabel=ff6b6b&sideLabels=ffb3b3&dates=ffb3b3&background=1a0a0a" height="165"/>
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:e9ecef,100:f8f9fa&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:c0392b,50:ee4979,100:ff6b6b&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
