@@ -1,172 +1,198 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:111111&height=160&section=header&text=Lovepreet%20Kaur&fontColor=ffffff&fontSize=42&fontAlignY=65&desc=Applied%20AI%20%2F%20ML%20Engineer&descAlignY=85&descSize=16&animation=fadeIn" width="100%"/>
+
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d1b2a,100:0a192f&height=140&section=header&text=Hi,%20I'm%20Lovepreet&fontSize=42&fontColor=00d4ff&fontAlignY=60&animation=fadeIn&desc=Applied%20AI%2FML%20Engineer&descAlignY=80&descSize=18&descColor=7ecfff" width="100%"/>
+
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Applied+AI%2FML+Engineer;B.Tech+CSE+(AI+%26+ML)+%7C+CGPA+9.1;Semester+Topper+%F0%9F%8F%86;GenAI+Developer+%7C+Full-Stack+Builder;1st+Place+%E2%80%94+Hackforge+2.0+%F0%9F%A5%87" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovepreet05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=0a0e1a)](https://lovepreet-kaur.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetkaurgill437@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1b2a)](https://github.com/Lovepreet-Kaur-Gill)
+
 </div>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="220">
+## ◈ About Me
 
-### 👾 Lovepreet Kaur
-**Applied AI / ML Engineer**
+```yaml
+name:     Lovepreet Kaur
+role:     Applied AI/ML Engineer · Full-Stack Developer
+college:  Geeta University — B.Tech CSE (AI & ML)
+cgpa:     9.1 | Semester Topper
+intern:   GenAI Developer @ Skilligence EdTech
+location: India
+```
 
-`⚡ Open to Opportunities`
-
----
-
-**Quick Nav**
-- [About Me](#-about-me)
-- [Projects](#-featured-projects)
-- [Stack](#-stack)
-- [Stats](#-github-stats)
-- [Connect](#-connect)
+> I bridge the gap between research and real-world AI — building systems that are **production-ready**, not just notebook experiments. Passionate about LLMs, multimodal AI, and full-stack applications that actually ship.
 
 ---
 
-**Stats**
+## ◈ What Makes Me Different
 
-| | |
+```
+▸  Production-first mindset — I don't just prototype, I deploy
+▸  LLM-native builder — Gemini, OpenAI APIs are daily tools
+▸  Full-stack fluency — from Supabase Edge Functions to Next.js frontends
+▸  Hackathon champion — 1st Place, Hackforge 2.0 (Growtix)
+▸  IIT Delhi ML Spring School graduate
+```
+
+---
+
+## ◈ Featured Projects
+
+<details>
+<summary><b>📄 CVision — Resume Builder & ATS Analyzer</b></summary>
+<br/>
+
+> Full-stack platform for smart JD-Resume mapping and ATS scoring.
+
+| Feature | Detail |
 |---|---|
-| CGPA | `9.1 / 10` |
-| Rank | `Sem Topper` |
-| Hackathon | `🏆 1st Place` |
-| Location | `India 🇮🇳` |
+| 🔍 Smart Keyword Extraction | Scores resume compatibility against live JDs |
+| 📊 Skill-Gap Analysis | Auto-links users to relevant learning resources |
+| 🔗 Public Profile Routing | Secure dynamic sharing with PDF exports |
 
-</td>
-<td valign="top">
+**Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00d4ff)
+![Supabase](https://img.shields.io/badge/Supabase-0d1b2a?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Clerk](https://img.shields.io/badge/Clerk_Auth-0a0e1a?style=flat-square&logo=clerk&logoColor=00d4ff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1b2a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-<img align="right" width="160" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+🔗 [**View Repository →**](https://github.com/Lovepreet-Kaur-Gill/CVision)
 
-## `> About Me`
+</details>
 
-**Hey there! I'm Lovepreet** 👾
-
-I'm an AI & ML engineer fueled by obsession with dark themes and clean systems.  
-By day, I pretend to understand transformers.  
-By night, I build things that actually work — sometimes.
-
-When I'm not pushing commits, I'm probably debugging why my last commit broke everything.
-
+<details>
+<summary><b>🌾 AgroTech — Smart Farming Platform</b></summary>
 <br/>
 
-| | |
+> Serverless, multilingual AI farming assistant for Indian farmers.
+
+| Feature | Detail |
 |---|---|
-| 🎓 | B.Tech CSE (AI & ML) · Geeta University · **CGPA 9.1** · Semester Topper |
-| 💼 | Former **GenAI Developer Intern** @ Skilligence EdTech |
-| 🏆 | **1st Place — Hackforge 2.0**, Geeta University |
-| 📚 | **Spring School on ML & Data Analytics** · IIT Delhi |
-| 📍 | India |
+| 🤖 Gemini Flash AI Chat | Native voice input + real-time Mandi prices |
+| 🌿 Crop Disease Scanner | Multimodal diagnosis via Supabase Edge Functions |
+| 📒 Kisan Khata | Secure financial ledger with PDF exports |
 
-</td>
-</tr>
-</table>
+**Tech Stack:**
+![React](https://img.shields.io/badge/React.js-0d1b2a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=flat-square&logo=typescript&logoColor=3178C6)
+![Supabase](https://img.shields.io/badge/Supabase-0d1b2a?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Gemini](https://img.shields.io/badge/Gemini_AI-0a0e1a?style=flat-square&logo=google&logoColor=4285F4)
+
+🔗 [**View Repository →**](https://github.com/AgroTech-Smart-Farming-Solutions/AGROTECH-SMART-FARMING)
+
+</details>
+
+<details>
+<summary><b>🏆 Growtix — AI Student Learning Platform  <code>1st Place · Hackforge 2.0</code></b></summary>
+<br/>
+
+> LLM-powered learning platform built and shipped at hackathon speed.
+
+| Feature | Detail |
+|---|---|
+| 🧠 AI Mentor | Interview prep + personalized learning paths |
+| 💻 Coding Lab | LeetCode-style environment with Monaco Editor |
+| ⚡ Real-Time Collab | Socket.io multiplayer sessions |
+
+**Tech Stack:**
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=flat-square&logo=typescript&logoColor=3178C6)
+![Supabase](https://img.shields.io/badge/Supabase-0d1b2a?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Socket.io](https://img.shields.io/badge/Socket.io-0a0e1a?style=flat-square&logo=socketdotio&logoColor=00d4ff)
+![Gemini](https://img.shields.io/badge/Gemini_API-0d1b2a?style=flat-square&logo=google&logoColor=4285F4)
+
+🔗 [**View Repository →**](https://github.com/Lovepreet-Kaur-Gill/GROWTIX)
+
+</details>
 
 ---
 
-<img align="right" width="140" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+## ◈ Tech Stack
 
-## `> Featured Projects`
-> *built to avoid manual labor*
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css&theme=dark" />
+</p>
 
-**[📄 CVision — Resume Builder & ATS Analyzer](https://github.com/Lovepreet-Kaur-Gill/CVision)**  
-Smart JD-Resume mapping & ATS scoring. Because job hunting shouldn't be guesswork.  
-`Next.js` `Supabase` `Clerk` `Tailwind`
+### AI / ML & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,flask,nodejs,mongodb,mysql,docker,git&theme=dark" />
+</p>
 
-**[🌾 AgroTech — Smart Farming Platform](https://github.com/AgroTech-Smart-Farming-Solutions/AGROTECH-SMART-FARMING)**  
-Multilingual AI assistant for Indian farmers. Voice input + live Mandi prices + crop disease scanner.  
-`React` `TypeScript` `Supabase` `Gemini AI`
-
-**[🏆 Growtix — AI Student Learning Platform](https://github.com/Lovepreet-Kaur-Gill/GROWTIX)**  
-LLM-powered platform with AI mentor, interview prep & coding lab. Built at a hackathon. **Won 1st.**  
-`TypeScript` `Supabase` `Socket.io` `Gemini API`
-
-<br clear="right"/>
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=github,supabase,postman,vscode,jupyter,figma&theme=dark" />
+</p>
 
 ---
 
-## `> Stack`
+## ◈ GitHub Analytics
 
 <div align="center">
 
-**// Languages**
-
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white)
-
-**// AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**// Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**// Backend & DevOps**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-## `> GitHub Stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lovepreet-Kaur-Gill&show_icons=true&theme=github_dark&count_private=true&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d0d0d" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovepreet-Kaur-Gill&layout=compact&theme=github_dark&hide_border=true&hide=html,css&title_color=ffffff&text_color=888888&bg_color=0d0d0d" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lovepreet-Kaur-Gill&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=7ecfff&ring_color=00d4ff" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovepreet-Kaur-Gill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=7ecfff&hide=html,css" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovepreet-Kaur-Gill&theme=github-dark-blue&hide_border=true&ring=ffffff&fire=888888&currStreakLabel=ffffff&sideLabels=888888&dates=444444&background=0d0d0d" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovepreet-Kaur-Gill&theme=tokyonight&hide_border=true&background=0d1b2a&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7ecfff&dates=7ecfff&currStreakNum=ffffff&sideNums=ffffff" height="160"/>
+
+</div>
+
+---
+
+## ◈ Current Focus & Interests
+
+```python
+current_focus = {
+    "learning":   ["Agentic AI Systems", "RAG Pipelines", "LLM Fine-tuning"],
+    "building":   ["AI-native full-stack apps", "EdTech tools", "AgriTech AI"],
+    "exploring":  ["Multimodal Models", "LangChain Agents", "Vector DBs"],
+    "goal_2025":  "Land a high-impact AI/ML engineering role & keep shipping"
+}
+```
+
+---
+
+## ◈ Achievements & Certifications
+
+```
+🥇  1st Place  ·  Hackforge 2.0  ·  Geeta University
+🎓  Spring School on ML & Data Analytics  ·  IIT Delhi
+💼  GenAI Developer Intern  ·  Skilligence EdTech
+📊  CGPA 9.1  ·  Consistent Semester Topper
+```
+
+---
+
+## ◈ Let's Connect
+
+<div align="center">
+
+> Always open to discussing AI projects, collaborations, and opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovepreet05)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=0a0e1a)](https://lovepreet-kaur.vercel.app)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetkaurgill437@gmail.com)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lovepreet-Kaur-Gill&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=444444&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## `> Connect`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lovepreet-Kaur-Gill)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovepreet05)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetkaurgill437@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lovepreet-kaur.vercel.app)
+<img src="https://komarev.com/ghpvc/?username=Lovepreet-Kaur-Gill&style=for-the-badge&color=00d4ff&labelColor=0d1b2a&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d1b2a,100:0a0e1a&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-*Code is never finished. It only becomes slightly less terrible over time.*
-
-*Every commit I make is a small, desperate apology to my future self.*
-
-*Someday I will return to this codebase and wonder who let me anywhere near a keyboard.*
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:0d0d0d,100:000000&height=100&section=footer&animation=fadeIn" width="100%"/>
+*"Build things that matter. Ship things that work."*
 </div>
