@@ -39,7 +39,6 @@ location: India
 ▸  LLM-native builder — Gemini, OpenAI APIs are daily tools
 ▸  Full-stack fluency — from Supabase Edge Functions to Next.js frontends
 ▸  Hackathon champion — 1st Place, Hackforge 2.0 (Growtix)
-▸  IIT Delhi ML Spring School graduate
 ```
 
 ---
